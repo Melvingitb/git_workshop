@@ -1,11 +1,3 @@
-Hi, My name is Gitbum!
-
-Hello there!
-
-Hello Melvin. My name is Rob!
-
-This was made on the new branch.
-
-Testing
-
-This is another change that's going to be merged with a pull request.
+Melvin: "Use Terminal"
+Sam: "Use Desktop"
+Intellectuals: "WDYM YOU COMMIT TO MAIN"
